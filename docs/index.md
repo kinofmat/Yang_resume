@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Hera Yang's Resume
 ---
 # Hera Yang
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
@@ -24,21 +24,28 @@ __LDS Business College__, Salt Lake City, UT
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- Currently majoring in Computer Science. 
+
 
 ## Skills
 
 ### Coding 
 
 - Experienced in Java, Python, and Web Development (HTML, CSS, JavaScript )
-- Familiar with C# and Unity and have contributed in some game projects as part of the assignments.
+- Have some experience in and are familiar with C# and Unity. Contributed in some game projects and 
+- Have some experience in App development environment using Visual Studio. Developed a simple tamagotchi mobile app that 
 
 ### Basic office skills  
 
 - Familiar with working with Microsoft Office software such as Word or Excel.  
 - Saved 30 hours a month with the automated scripts.
   
+### Languages 
+- Korean, English, Chinese 
 
-
+## Internship Experience 
+`2018` 
+- Joined a Internship program to work as an assistant 
 ## Service and Work History
 
 `2016-2017`
