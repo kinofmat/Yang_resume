@@ -3,11 +3,10 @@ layout: cv
 title: Hera Yang's Resume
 ---
 # Hera Yang
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
 
 <div id="webaddress">
 <a href="herayang96@gmail.com">herayang96@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://www.linkedin.com/in/hera-yang-3b7217217">GitHub</a>
 </div>
@@ -29,23 +28,24 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Skills
 
-### Coding 
+### Software Development 
 
 - Experienced in Java, Python, and Web Development (HTML, CSS, JavaScript )
 - Have some experience in and are familiar with C# and Unity. Contributed in some game projects and 
-- Have some experience in App development environment using Visual Studio. Developed a simple tamagotchi mobile app that 
+- Familiar with Android App development environment using Visual Studio. Developed a simple, functioning tamagotchi mobile app with a group of people.
 
 ### Basic office skills  
 
 - Familiar with working with Microsoft Office software such as Word or Excel.  
 - Saved 30 hours a month with the automated scripts.
+
   
 ### Languages 
 - Korean, English, Chinese 
 
 ## Internship Experience 
 `2018` 
-- Joined a Internship program to work as an assistant 
+- Joined an Internship program to work as an assistant Web Developer. Learned to organize the codes so that it is easier for maintenance.
 ## Service and Work History
 
 `2016-2017`
