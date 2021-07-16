@@ -37,8 +37,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Basic office skills  
 
 - Familiar with working with Microsoft Office software such as Word or Excel.  
-- Saved 30 hours a month with the automated scripts.
-
   
 ### Languages 
 - Korean, English, Chinese 
