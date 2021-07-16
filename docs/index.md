@@ -32,14 +32,14 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Experienced in Java, Python, and Web Development (HTML, CSS, JavaScript )
 - Have some experience in and are familiar with C# and Unity. Contributed in some game projects and 
-- Familiar with Android App development environment using Visual Studio. Developed a simple, functioning tamagotchi mobile app with a group of people.
+- Familiar with Android App development environment using Visual Studio. Developed a simple, functioning Tamagotchi mobile app with a group of peers.
 
 ### Basic office skills  
 
 - Familiar with working with Microsoft Office software such as Word or Excel.  
   
 ### Languages 
-- Korean, English, Chinese 
+- Able to effectively communicate and speak fluently in  Korean, English,  and Chinese. 
 
 ## Internship Experience 
 `2018` 
