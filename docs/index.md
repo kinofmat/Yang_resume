@@ -10,6 +10,7 @@ title: Hera Yang's Resume
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://www.linkedin.com/in/hera-yang-3b7217217">GitHub</a>
 </div>
+<!-- Your GitHub link goes to linkedin. -->
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
@@ -48,7 +49,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `2016-2017`
 __English Tutor__, South Korea
-
+<!-- overall what you have looks pretty good. It does feel a little sparse. Maybe add in any church callings, or write little bit about a software project you have worked on. -->
 
 
 <!-- ### Footer
