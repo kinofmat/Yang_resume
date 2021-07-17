@@ -15,15 +15,15 @@ title: Hera Yang's Resume
 
 ## Education
 
-`2018-2020`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Currently majoring in Computer Science. 
+
+`2018-2020`
+__LDS Business College__, Salt Lake City, UT
+
+- Full academic scholarship with 4.0 GPA
 
 
 ## Skills
