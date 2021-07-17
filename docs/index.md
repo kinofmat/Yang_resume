@@ -30,8 +30,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Software Development 
 
-- Experienced in Java, Python, and Web Development (HTML, CSS, JavaScript )
-- Have some experience in and are familiar with C# and Unity. Contributed in some game projects and 
+- Experienced in Java, Python, HTML, CSS, and Javascript.
+- C# and Unity: exerienced in developing Unity environment.
 - Familiar with Android App development environment using Visual Studio. Developed a simple, functioning Tamagotchi mobile app with a group of peers.
 
 ### Basic office skills  
